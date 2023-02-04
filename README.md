@@ -13,8 +13,8 @@
  Фреймворки: SDWebImage
  
  
-![2023-02-04_05-54-07](https://user-images.githubusercontent.com/97976096/216743192-98c6dfd3-631b-45f2-98d9-d96f477576ff.png)
-![2023-02-04_05-52-59](https://user-images.githubusercontent.com/97976096/216743204-c336eb0a-b234-4f70-8f52-25fc69764822.png)
-![2023-02-04_05-52-47](https://user-images.githubusercontent.com/97976096/216743209-dc8eae22-a8a1-42fe-982a-68d851d13a78.png)
+[2023-02-04_05-54-07](https://user-images.githubusercontent.com/97976096/216743192-98c6dfd3-631b-45f2-98d9-d96f477576ff.png)
+[2023-02-04_05-52-59](https://user-images.githubusercontent.com/97976096/216743204-c336eb0a-b234-4f70-8f52-25fc69764822.png)
+[2023-02-04_05-52-47](https://user-images.githubusercontent.com/97976096/216743209-dc8eae22-a8a1-42fe-982a-68d851d13a78.png)
 
 
