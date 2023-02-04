@@ -1,1 +1,1 @@
-# RSS-News-Reader
+# RSS-Reader
