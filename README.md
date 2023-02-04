@@ -10,11 +10,14 @@
 
 
 Результат 
- Фреймворки: SDWebImage
+iOS 14.4
+TableView, 
+XMLParser, 
+SDWebImage, 
  
- 
-[2023-02-04_05-54-07](https://user-images.githubusercontent.com/97976096/216743192-98c6dfd3-631b-45f2-98d9-d96f477576ff.png)
-[2023-02-04_05-52-59](https://user-images.githubusercontent.com/97976096/216743204-c336eb0a-b234-4f70-8f52-25fc69764822.png)
-[2023-02-04_05-52-47](https://user-images.githubusercontent.com/97976096/216743209-dc8eae22-a8a1-42fe-982a-68d851d13a78.png)
+![2023-02-04_05-57-05](https://user-images.githubusercontent.com/97976096/216743474-e510c54f-cf1d-4895-bf6c-60e5f49374f9.png)
+![2023-02-04_05-58-01](https://user-images.githubusercontent.com/97976096/216743472-b8624402-b088-4151-bb88-df2836a459a8.png)
+![2023-02-04_05-57-30](https://user-images.githubusercontent.com/97976096/216743473-88fa87b2-046f-417a-805a-ba1816f90c59.png)
+
 
 
