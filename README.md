@@ -11,3 +11,6 @@
 
 Результат 
  Фреймворки: SDWebImage
+![2023-02-04_05-49-49](https://user-images.githubusercontent.com/97976096/216742659-025bc42a-8467-4692-9b8f-3688b4a134f6.png)
+![2023-02-04_05-51-37](https://user-images.githubusercontent.com/97976096/216742717-34c8c4ea-914c-4c99-b45c-160e1ea63b42.png)
+![2023-02-04_05-51-09](https://user-images.githubusercontent.com/97976096/216742718-e0574999-fbee-4990-95d1-06b579f3f103.png)
